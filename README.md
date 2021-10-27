@@ -4,7 +4,7 @@
 - 📫 Como chegar até mim?<br/>
 Linkedin: https://www.linkedin.com/in/victor-hugo-dos-santos-silva-240203130/<br/>
 Email: victorhugo200944@gmail.com<br/>
-Telefone:(11)93016-9366<br/>
+Telefone:(11) 93016-9366<br/>
 
 <!---
 vhsantos10/vhsantos10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
