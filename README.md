@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Victor Hugo
-- 👀 I’m interested in programação e na evolução contínua dentro dos diversos paradigmas na área de desenvolvimento. 
-- 🌱 I’m currently learning  React, Angular e PHP.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, eu sou Victor Hugo
+- 👀 Eu estou interessado em programação e na evolução contínua dentro dos diversos paradigmas na área de desenvolvimento. 
+- 🌱 Atualmente estou aprendendo React, Angular e PHP.
+- 📫 Como chegar até mim?
+Linkedin: https://www.linkedin.com/in/victor-hugo-dos-santos-silva-240203130/
+Email: victorhugo200944@gmail.com
+Telefone:(11)93016-9366
 
 <!---
 vhsantos10/vhsantos10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
