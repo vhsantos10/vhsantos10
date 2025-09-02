@@ -44,35 +44,6 @@ Sou pós-graduando em **Engenharia de Software** com direcionamento em **Ciberse
 
 ---
 
-## 🚀 Experiências e Entregas Relevantes
-
-- 📥 **Portal de Critérios – Solicitação de Acessos Corporativos**  
-  Sistema de solicitação e aprovação de acessos baseado em critérios corporativos, com suporte a múltiplas organizações e ilhas.  
-  Implementado com ASP.NET Core e arquitetura modular, permite o cadastro e vinculação de **Perfis Funcionais**, controle hierárquico de aprovações (Gestor, Custodiante, Área de Riscos), geração de documentos personalizados por acesso e relatórios detalhados de rastreabilidade.  
-  Destaques:
-  - Criação e edição de perfis funcionais com múltiplos sistemas vinculados
-  - Hierarquia de aprovação com múltiplos níveis (Gestor direto, Dono do perfil, Riscos, Custodiante)
-  - Geração de documentos e logs com versionamento por histórico
-  - Integração com AD e repositórios de acesso
-  - Tema escuro, autenticação via NTLM e layout responsivo
-
-- 🔐 **Portal de conformidade SOX – Conformidade BD/SO**  
-  Automação de cruzamentos CMDB/ACL/SO, geração de relatórios de conformidade e logs de auditoria.
-
-- 🔐 **Portal MMC – Certificados**  
-  Geração, aprovação e envio automático de certificados digitais `.cer`, com autenticação via NTLM → JWT.
-
-- ⚙️ **Portal de Acessos Cloud**  
-  Criação de documentos de solicitação de acesso com perfis funcionais, integrando com AD e workflows de aprovação.
-
-- ❤️ **Rede Solidária**  
-  Plataforma Node.js + React para conectar doadores e ONGs, com dashboards e gerenciamento de entregas.
-
-- 📊 **Soluções de automação**  
-  Integrações com Azure AD, TFS, Active Directory, gerenciamento de identidades e processos críticos internos.
-
----
-
 ## 🎓 Formação Acadêmica
 
 - 📘 MBA em Engenharia de Software — Impacta (2024–2025)
